@@ -1,2 +1,4 @@
-
+.idea
+.gradle
 test\.js
+vcs.xml
